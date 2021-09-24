@@ -1,0 +1,2 @@
+D:\Нада\ЯП\KP\StandartLibrary\Debug\StandartLibrary.lib
+D:\Нада\ЯП\KP\StandartLibrary\Debug\StandartLibrary.pdb

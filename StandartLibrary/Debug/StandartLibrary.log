@@ -1,0 +1,20 @@
+﻿Сборка начата 16.12.2020 02:02:30.
+Уровень детализации журнала: Normal.     1>Проект "D:\Нада\ЯП\KP\StandartLibrary\StandartLibrary.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\StandartLibrary.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\StandartLibrary.pdb" /Gd /TP /analyze- /FC /errorReport:prompt StandartLibrary.cpp
+         StandartLibrary.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\Lib.exe /OUT:"D:\Нада\ЯП\KP\StandartLibrary\Debug\StandartLibrary.lib" /NOLOGO /MACHINE:X86 Debug\StandartLibrary.obj
+         StandartLibrary.vcxproj -> D:\Нада\ЯП\KP\StandartLibrary\Debug\StandartLibrary.lib
+       FinalizeBuildStatus:
+         Файл "Debug\StandartLibrary.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\StandartLibrary.tlog\StandartLibrary.lastbuildstate".
+     1>Сборка проекта "D:\Нада\ЯП\KP\StandartLibrary\StandartLibrary.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.61

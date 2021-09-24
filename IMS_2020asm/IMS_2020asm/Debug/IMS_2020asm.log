@@ -1,0 +1,21 @@
+﻿Сборка начата 17.12.2020 18:15:03.
+Уровень детализации журнала: Normal.     1>Проект "D:\Нада\ЯП\KP\IMS_2020asm\IMS_2020asm\IMS_2020asm.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\IMS_2020asm.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       _MASM:
+         Assembling IMS_2020asm.asm...
+         cmd.exe /C "C:\Users\Komarsergeevich\AppData\Local\Temp\tmp8843dbd4f4764383847d0d7d6fda5adb.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\IMS_2020asm.obj" /W3 /errorReport:prompt  /TaIMS_2020asm.asm
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Нада\ЯП\KP\IMS_2020asm\IMS_2020asm\Debug\IMS_2020asm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"D:\Нада\ЯП\KP\IMS_2020asm\IMS_2020asm\Debug\IMS_2020asm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Нада\ЯП\KP\IMS_2020asm\IMS_2020asm\Debug\IMS_2020asm.lib" /MACHINE:X86 Debug\IMS_2020asm.obj
+         IMS_2020asm.vcxproj -> D:\Нада\ЯП\KP\IMS_2020asm\IMS_2020asm\Debug\IMS_2020asm.exe
+       FinalizeBuildStatus:
+         Файл "Debug\IMS_2020asm.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\IMS_2020asm.tlog\IMS_2020asm.lastbuildstate".
+     1>Сборка проекта "D:\Нада\ЯП\KP\IMS_2020asm\IMS_2020asm\IMS_2020asm.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.50

@@ -1,0 +1,63 @@
+declaration
+{
+integer x;
+integer y;
+integer z;
+integer k;
+integer m;
+string sa;
+string sb;
+string sc;
+logic lf;
+logic lt;
+[3] IntegerArray ;
+integer function sum(integer a, integer b);
+string function SayHelloTo(string name);
+logic function InvertLogic(logic v);
+string $SayHelloTo$ hello;
+}
+
+integer function sum(integer a, integer b)
+{
+return a+ b;
+}
+
+string function SayHelloTo(string name)
+{
+	hello as 'hello, ' + name;
+	print hello;
+}
+
+
+logic function InvertLogic(logic v)
+{
+	if(v = true)
+	{
+		return false;
+	}
+	else
+	{
+		return true;
+	}
+}
+
+main
+{
+x as 12;
+y as 31;
+z as x+x*(x/y+x*y);
+x as sum(x,y);
+print x;
+sa as 'Makar';
+sb as 'Nikita';
+sc as sa+sb;
+SayHelloTo(sc);
+lf as false;
+lt as InvertLogic(lf);
+IntegerArray[0] as 1;
+IntegerArray[1] as 2;
+IntegerArray[2] as 3;
+print IntegerArray[1];
+print IntegerArray[2];
+return 0;
+}
